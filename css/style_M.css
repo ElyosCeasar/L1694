@@ -43,10 +43,11 @@ p, ul, ol {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212121;
+  color: #E6EFEA !important;
   font-family: "Roboto Slab", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 30px 0;
+
 }
 
 figure {
@@ -117,8 +118,8 @@ figure {
   border: 2px solid #5cb85c;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
-  background: #4cae4c !important;
-  border-color: #4cae4c !important;
+  background: #64002b !important;
+  border-color: #64002b !important;
 }
 .btn-success.btn-outline {
   background: transparent;
